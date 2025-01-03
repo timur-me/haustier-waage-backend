@@ -1,12 +1,14 @@
-# Running the app.
+# Haustier Wagen - backend
 
-## Installing requirements
+## Running the app.
+
+### Installing requirements
 ```bash
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Running that app via Uvicorn
+### Running that app via Uvicorn
 ```bash
 uvicorn app.__main__:app --reload
 ```
