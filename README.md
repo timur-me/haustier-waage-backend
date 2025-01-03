@@ -1,4 +1,4 @@
-# Haustier Wagen - backend
+# Haustier Waage - backend
 
 ## Running the app.
 
